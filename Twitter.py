@@ -2,10 +2,10 @@ import tweepy
 
 class Twitter:
     def __init__(self):
-        self.key="XXXXXXXXX"
-        self.secretKey="XXXXXXXXXXXXXXXX"
-        self.access = "XXXXXXXXXXXX"
-        self.secretAccess = "XXXXXXXXXXXXXXXXXXXX"
+        self.key = "XXXXX"
+        self.secretKey = "XXXXX"
+        self.access = "XXXXX"
+        self.secretAccess = "XXXX"
         self.auth=""
         self.api =""
     def connect(self):
